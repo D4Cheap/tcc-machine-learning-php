@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rindow/rindow-neuralnetworks": "^2.0",
+        "rindow/rindow-math-plot": "^1.0"
+    }
+}
